@@ -1,4 +1,4 @@
-- リーダーアーム
-  - The port of this MotorsBus is '/dev/tty.usbmodem5B7B0091361' #黒いケーブルつけた
+- リーダーアーム(黒いケーブルつけた)
+  - The port of this MotorsBus is '/dev/tty.usbmodem5B7B0091361' 
 - フォロワーアーム
-  - The port of this MotorsBus is '/dev/tty.usbmodem5B7B0098751'　#黒いケーブルつけてない
+  - The port of this MotorsBus is '/dev/tty.usbmodem5B7B0098751'　
