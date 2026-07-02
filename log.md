@@ -1,1 +1,2 @@
-The port of this MotorsBus is '/dev/tty.usbmodem5B7B0091361'
+The port of this MotorsBus is '/dev/tty.usbmodem5B7B0091361' #黒いケーブルつけた
+The port of this MotorsBus is '/dev/tty.usbmodem5B7B0098751'#黒いケーブルつけてない
